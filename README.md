@@ -1,2 +1,0 @@
-# COURSES
-Scorm courses hosted.

@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<manifest identifier="AUSd-fnUBfnW2DzdwVNYmznNRKnb5dBMSNoVBRCR" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Digital Marketing Course</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Digital Marketing Course</title>
+        <adlcp:datafromlms>eyJjcHYiOiJTTm9WQlJDUiIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/fa00a719.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/8ea82c64.js" />
+<file href="scormcontent/lib/rise/ae95f0f5.css" />
+<file href="scormcontent/lib/rise/e9f693e1.js" />
+<file href="scormcontent/lib/rise/92e0d0dc.js" />
+<file href="scormcontent/lib/rise/dc293cc7.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/f89c2959.js" />
+<file href="scormcontent/lib/mondrian/52197d92.js" />
+<file href="scormcontent/lib/mondrian/08509366.js" />
+<file href="scormcontent/lib/mondrian/c16e7dd3.js" />
+<file href="scormcontent/lib/mondrian/d7134136.js" />
+<file href="scormcontent/lib/mondrian/56ed4fc1.js" />
+<file href="scormcontent/lib/mondrian/617890ed.js" />
+<file href="scormcontent/lib/mondrian/b1be0899.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/small.png" />
+<file href="scormcontent/assets/ClH_xMwi-kTAJdDv.jpg" />
+<file href="scormcontent/assets/blur-cellphone-communication-1391404.jpg" />
+<file href="scormcontent/assets/25v7tyQj3UM0iMbI-stock-image.jpg" />
+<file href="scormcontent/assets/adult-chair-coffee-shop-1112796.jpg" />
+<file href="scormcontent/assets/bike.jpg" />
+<file href="scormcontent/assets/9076vrQPz0cDHzL3-stock-image.jpg" />
+<file href="scormcontent/assets/JMoDES/mountains.jpg" />
+<file href="scormcontent/assets/9OOjEtqZvtv0KCah-stock-image.jpg" />
+<file href="scormcontent/assets/adult-connection-desk-1546621.jpg" />
+<file href="scormcontent/assets/VNmtlVj76bpP_iX5-stock-image.jpg" />
+<file href="scormcontent/assets/8tMQe2K0Uhz14F6s-stock-image.jpg" />
+<file href="scormcontent/assets/kon-karampelas-HUBofEFQ6CA-unsplash.jpg" />
+<file href="scormcontent/assets/stock-image.jpg" />
+<file href="scormcontent/assets/sara-kurfess-cJDwJ4X2IrQ-unsplash.jpg" />
+<file href="scormcontent/assets/sYj1my/stock-image.jpg" />
+<file href="scormcontent/assets/829374kjhds.jpg" />
+<file href="scormcontent/assets/8923He90.jpg" />
+<file href="scormcontent/assets/brainstorming-businesswoman-collaborate-1229359%20copy.jpg" />
+<file href="scormcontent/assets/bjwU-CgwMQCRc-qL-stock-image.jpg" />
+<file href="scormcontent/assets/BY3NrEU4vF9omGY1-stock-image.jpg" />
+<file href="scormcontent/assets/TEXT%20ad%20image.jpg" />
+<file href="scormcontent/assets/Ai6k1k/TEXT%20ad%20image.jpg" />
+<file href="scormcontent/assets/google-product-listing-ads.jpg" />
+<file href="scormcontent/assets/iHsu_w/google-product-listing-ads.jpg" />
+<file href="scormcontent/assets/XHm_i7gQuizVXP84-stock-image.jpg" />
+<file href="scormcontent/assets/images.jpg" />
+<file href="scormcontent/assets/images%20%281%29.jpg" />
+<file href="scormcontent/assets/images...png" />
+<file href="scormcontent/assets/conversionrate_en.jpg" />
+<file href="scormcontent/assets/images34.png" />
+<file href="scormcontent/assets/dYrpLa-VykrYeLrU-stock-image.jpg" />
+<file href="scormcontent/assets/3060354.jpg" />
+<file href="scormcontent/assets/TM1hQE8M9ODcc_V7-stock-image.jpg" />
+<file href="scormcontent/assets/6PNbmHhosxKHXCup-stock-image.jpg" />
+<file href="scormcontent/assets/adult-connection-discussing-1181743.jpg" />
+<file href="scormcontent/assets/dfvGc6/stock-image.jpg" />
+<file href="scormcontent/assets/stock-image.png" />
+<file href="scormcontent/assets/MUomAy/stock-image.png" />
+<file href="scormcontent/assets/kv8Fx4/stock-image.png" />
+<file href="scormcontent/assets/U5Urxh/stock-image.jpg" />
+<file href="scormcontent/assets/3gHX0H/stock-image.jpg" />
+<file href="scormcontent/assets/tM3HwT/stock-image.jpg" />
+<file href="scormcontent/assets/Rh0XEj/stock-image.jpg" />
+<file href="scormcontent/assets/eFnXPq/stock-image.jpg" />
+<file href="scormcontent/assets/sUGS_d/stock-image.jpg" />
+<file href="scormcontent/assets/uU_seA/stock-image.jpg" />
+<file href="scormcontent/assets/Mn8aVn/stock-image.jpg" />
+<file href="scormcontent/assets/4NCpLo/stock-image.jpg" />
+<file href="scormcontent/assets/44Ic65/stock-image.jpg" />
+<file href="scormcontent/assets/8Ua3Dp/stock-image.jpg" />
+<file href="scormcontent/assets/muDZIN/stock-image.jpg" />
+<file href="scormcontent/assets/U7kt8x/stock-image.jpg" />
+<file href="scormcontent/assets/g-ITmh/stock-image.jpg" />
+<file href="scormcontent/assets/eQnVLT/stock-image.jpg" />
+<file href="scormcontent/assets/access-connection-data-1262974.jpg" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
